@@ -1,0 +1,6 @@
+{
+  "name": "NOIR CULTURE — Streetwear Archive",
+  "description": "Minimalistička, moderna e-commerce web stranica za streetwear brend NOIR CULTURE (@cltr.noir). Mračna urbana noir estetika, teški krojevi i limitirani dropovi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
